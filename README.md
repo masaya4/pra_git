@@ -79,3 +79,7 @@
      リモートリポジトリからローカルリポジトリにとってくる。ワークツリーには反映しない。
     - git merge origin/master でワークツリーに取り込む
     - git pull origin master で上記の2手順を一度にできる。
+      git pull origin master はmasterブランチを現在のブランチに取り込む。現在のブランチをmasterブランチに取り込むのではない
+
+### リモート詳細情報を表示する
+    - git remote show origin
