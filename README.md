@@ -77,3 +77,5 @@
     - git fetch <リモート名>
     - git fetch origin
      リモートリポジトリからローカルリポジトリにとってくる。ワークツリーには反映しない。
+    - git merge origin/master でワークツリーに取り込む
+    - git pull origin master で上記の2手順を一度にできる。
