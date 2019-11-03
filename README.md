@@ -53,3 +53,8 @@
     > git add <新ファイル>
 
 
+ステージの情報を取ってきてワークツリーを上書きする。
+- git checkout --<ファイル名>
+- git checkout --<ディレクトリ名>
+- git checkout --.
+
