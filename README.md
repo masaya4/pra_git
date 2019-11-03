@@ -58,3 +58,9 @@
 - git checkout --<ディレクトリ名>
 - git checkout --.
 
+ステージした変更を取り消す。
+- git reset HEAD <ファイル名>
+- git reset HEAD <ディレクトリ名>
+- git reset HEAD .
+  今自分がいるブランチの最新のコミットの履歴でステージを上書きするよ。
+
