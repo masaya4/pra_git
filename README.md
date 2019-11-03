@@ -83,3 +83,7 @@
 
 ### リモート詳細情報を表示する
     - git remote show origin
+
+### リモートを変更・削除する
+    - git remote rename <旧リモート名> <新リモート名>
+    - git remote rm <リモート名>
