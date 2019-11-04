@@ -6,3 +6,4 @@ git status
 git diff
 git merge
 <p>conflict</p>
+<p>コンフリクト</p>
