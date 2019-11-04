@@ -100,3 +100,9 @@
 ### ブランチの一覧を表示する
 - `git branch
 - `git branch -a
+
+### ブランチを切り替える
+- `git checkout <既存ブランチ>`
+- `git checkout -b <新ブランチ>`
+ ブランチを新規作成して切り替える
+ 
