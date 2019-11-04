@@ -4,3 +4,4 @@ edit
 - git commit
 git status
 git diff
+git merge
