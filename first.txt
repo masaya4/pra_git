@@ -8,3 +8,4 @@ git merge
 <p>conflict</p>
 <p>コンフリクト</p>
 <p>test</p>
+<github_flow>
